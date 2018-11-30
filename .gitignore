@@ -1,2 +1,4 @@
 calculator
 .vscode
+.coverage
+__pycache__
