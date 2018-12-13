@@ -1,4 +1,4 @@
-calculator
 .vscode
 .coverage
 __pycache__
+venv
